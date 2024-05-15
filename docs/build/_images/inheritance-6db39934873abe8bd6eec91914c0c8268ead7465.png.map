@@ -1,0 +1,5 @@
+<map id="inheritance02ef59160f" name="inheritance02ef59160f">
+<area shape="rect" id="node1" title="Base class for reStructuredText directives." alt="" coords="4,4,177,25"/>
+<area shape="rect" id="node3" title="A base class for Sphinx directives." alt="" coords="217,4,425,25"/>
+<area shape="rect" id="node2" title="Run when the inheritance_diagram directive is first encountered." alt="" coords="465,4,764,25"/>
+</map>
